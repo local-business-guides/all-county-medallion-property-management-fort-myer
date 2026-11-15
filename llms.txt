@@ -23,6 +23,9 @@
 - [Property management company Fort Myers owners can consult](https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/property-management-company-fort-myers/): Choose a Property management company Fort Myers owners can talk with about residential investments. Call All County Medallion Property Management today.
 - [property management in fort myers for residential owners](https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/property-management-in-fort-myers/): Explore property management in fort myers to keep residential ownership organized and protect your investment. Call All County Medallion today.
 
+## Newsroom
+- [All County Medallion Publishes Guide to Property Management in Fort Myers FL](https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/news/2026-11-15-all-county-medallion-publishes-guide-to-property/): All County Medallion Property Management published a Fort Myers guide this week, with related video and audio versions. (2026-11-15)
+
 ## Pages
 - [Property Management in Fort Myers, Florida](https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/): Focused residential management can help protect your investment and make owning a rental in Fort Myers easier to manage. Call +1239-204-4171.
 - [About All County Medallion Property Management](https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/about/): About All County Medallion Property Management, Fort Myers.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/news/rss.xml)
 - [Main resource site](https://all-county-medallion-fort-myers.localwebsites.chatgpt.site)

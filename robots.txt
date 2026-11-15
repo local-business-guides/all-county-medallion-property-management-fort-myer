@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/sitemap.xml
+Sitemap: https://local-business-guides.github.io/all-county-medallion-property-management-fort-myer/news-sitemap.xml
